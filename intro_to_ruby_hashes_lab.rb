@@ -29,7 +29,12 @@ def monopoly_with_third_tier
 	      :three => "", 
 	      :four => ""
 	    },
-	    :names =>{} 
+	    :names =>{
+	      :reading =>{}
+	      :B_and_O =>{}
+	      :pennsylvania =>{}
+	      :shortline =>
+	    } 
 	  },
   }
   
