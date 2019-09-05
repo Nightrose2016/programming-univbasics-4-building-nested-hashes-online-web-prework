@@ -30,9 +30,9 @@ def monopoly_with_third_tier
 	      :four => ""
 	    },
 	    :names =>{
-	      :reading =>{}
-	      :B_and_O =>{}
-	      :pennsylvania =>{}
+	      :reading =>{},
+	      :B_and_O =>{},
+	      :pennsylvania =>{},
 	      :shortline =>{}
 	    } 
 	  },
