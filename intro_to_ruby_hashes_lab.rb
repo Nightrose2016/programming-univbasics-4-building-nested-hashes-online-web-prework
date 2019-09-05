@@ -24,7 +24,7 @@ def monopoly_with_third_tier
     	disney = {
 	  :railroads => {:pieces => 4, 
 	    :rent_in_dollars =>{
-	      :one => "", 
+	      :one => "25", 
 	      :two => "", 
 	      :three => "", 
 	      :four => ""
