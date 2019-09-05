@@ -33,7 +33,7 @@ def monopoly_with_third_tier
 	      :reading =>{}
 	      :B_and_O =>{}
 	      :pennsylvania =>{}
-	      :shortline =>
+	      :shortline =>{}
 	    } 
 	  },
   }
